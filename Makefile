@@ -20,7 +20,7 @@ define Package/$(PKG_NAME)
   CATEGORY:=eSir Playground
   SUBMENU:=2. GameAcc
   TITLE:=LingTi Game Accelerator
-  URL:=https://github.com/esirplayground/LingTiGameAcc
+  URL:=https://github.com/gitthehit/LingTiGameAcc
   DEPENDS:=+kmod-tun
 endef
 
